@@ -1,0 +1,32 @@
+{
+  "Bedroom": {
+    "Electric devices": {
+      "Air conditioner": "OFF",
+      "Curtain": "4",
+      "Fan": "ON",
+      "Lamp": "ON",
+      "Light": "OFF",
+      "PC": "ON"
+    }
+  },
+  "Kitchen": {
+    "Electric devices": {
+      "Air conditioner": "OFF",
+      "Cooker": "ON",
+      "Fridge": "OFF",
+      "Hood": "ON",
+      "Light": "ON",
+      "Stove": "ON"
+    }
+  },
+  "Living room": {
+    "Electric devices": {
+      "Air conditioner": "18",
+      "Fan": "OFF",
+      "Lamp": "ON",
+      "Light": "OFF",
+      "Speaker": "43",
+      "TV": "OFF"
+    }
+  }
+}
